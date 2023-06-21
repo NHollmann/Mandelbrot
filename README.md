@@ -6,7 +6,8 @@ Multiple implementations of Mandelbrot image generators.
 **Simple:**
 - C
 - C++
-- Go (without Concurrency)
+- Go
+- Go (with Concurrency)
 
 **GPU:**
 - TODO
