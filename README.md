@@ -4,6 +4,7 @@ Multiple implementations of Mandelbrot image generators.
 ## Implementations
 
 **Simple:**
+- C
 - C++
 
 **GPU:**
