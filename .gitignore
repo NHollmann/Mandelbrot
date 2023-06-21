@@ -53,3 +53,7 @@ dkms.conf
 
 # macOS
 .DS_Store
+
+# Output images and binaries
+.ppm
+build/

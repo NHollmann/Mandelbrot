@@ -61,7 +61,7 @@ int main()
 			
 			unsigned char r, g, b;
 			if (iter == MAX_ITER) {
-				// Set the pixel to bacl if we think it is in the mandelbrot set.
+				// Set the pixel to black if we think it is in the mandelbrot set.
 				r = 0; g = 0; b = 0;
 			} else {
 				// Calculate the pixel color by linear interpolation based on
